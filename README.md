@@ -15,15 +15,16 @@ C → C++ → 算法 → 网络安全（汇编 / x86 / PE-ELF / 漏洞原理 / �
 | 类型 | 链接 | 说明 |
 |---|---|---|
 | 🧩 学习代码库 | [study](https://github.com/sqs6/study) | 35 周 C/C++/网安代码库，进度表公开，持续更新 |
-| 🚩 CTF | [ctf-writeups](https://github.com/sqs6/ctf-writeups) | 题解与比赛成绩，主攻 Web / Reverse / Pwn |
-| 📝 技术笔记 | [articles](https://github.com/sqs6/articles) | 指针、内存、二进制安全、Git |
-| 🛠 自研工具 | [tools](https://github.com/sqs6/tools) | 命令行小工具与脚本 |
+| 🚩 CTF | [ctf-writeups](https://github.com/sqs6/ctf-writeups) | **建设中** —— 题解与比赛成绩，主攻 Web / Reverse / Pwn |
+| 📝 技术笔记 | [articles](https://github.com/sqs6/articles) | **建设中** —— 指针、内存、二进制安全、Git |
+| 🛠 自研工具 | [tools](https://github.com/sqs6/tools) | **建设中** —— 命令行小工具与脚本 |
 
 ## 正在做
 
 - **OceanBase 数据库大赛（2026 第六届）** —— 迷你数据库内核 MiniOB
-- 每周打 CTF，题解同步进仓库
-- 每天固定整理 30 分钟：提交、推代码、更新进度表
+  参赛仓库：[miniob-sqs2026](https://github.com/sqs6/miniob-sqs2026)（fork 自官方 MiniOB，目前只有环境适配改动，代码待提交）
+- 按知识清单 + 晋级门槛推进 C / C++，进度表在 [study](https://github.com/sqs6/study) 公开
+- 每周固定推进 CTF 题解，做完的同步进 [ctf-writeups](https://github.com/sqs6/ctf-writeups)
 
 ## 技术栈
 
