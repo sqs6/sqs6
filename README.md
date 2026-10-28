@@ -3,6 +3,8 @@
 西安电子科技大学 · 网络空间安全 · 大一（2026.09 – 2030.06 预计）
 邮箱 3460767440@qq.com ｜ GitHub：<https://github.com/sqs6>
 
+🔄 最近更新：2026-10-28
+
 ## 在学什么
 
 C → C++ → 算法 → 网络安全（汇编 / x86 / PE-ELF / 漏洞原理 / 静态分析）
@@ -10,13 +12,15 @@ C → C++ → 算法 → 网络安全（汇编 / x86 / PE-ELF / 漏洞原理 / �
 学习走的是"**知识清单 + 晋级门槛**"的路子：C 语言十条全过才准学 C++，C++ 十一条全过才准系统学 Python。
 计划与清单：[study](https://github.com/sqs6/study)
 
+**当前进度**：2026-11-02 启动 · 已产出 week01 类型表实验 · 进度表实时打勾
+
 ## 仓库
 
 > `study` 是**正在写**的；其余几个是**已建、正在往里填**的（第一批内容待发布）。
 
 | 类型 | 仓库 | 状态 |
 |---|---|---|
-| 🧩 学习代码库 | [study](https://github.com/sqs6/study) | 35 周 C/C++/网安代码库，进度表公开，持续更新 |
+| 🧩 学习代码库 | [study](https://github.com/sqs6/study) | 35 周清单制代码库：目录已铺好，进度以打勾表为准 |
 | 🚩 CTF 题解 | [ctf-writeups](https://github.com/sqs6/ctf-writeups) | 建设中 —— 主攻 Web / Reverse / Pwn |
 | 📝 技术笔记 | [articles](https://github.com/sqs6/articles) | 建设中 —— 指针、内存、二进制安全、Git |
 | 🛠 自研工具 | [tools](https://github.com/sqs6/tools) | 建设中 —— 命令行小工具与脚本 |
