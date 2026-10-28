@@ -10,25 +10,28 @@ C → C++ → 算法 → 网络安全（汇编 / x86 / PE-ELF / 漏洞原理 / �
 学习走的是"**知识清单 + 晋级门槛**"的路子：C 语言十条全过才准学 C++，C++ 十一条全过才准系统学 Python。
 计划与清单：[study](https://github.com/sqs6/study)
 
-## 成果
+## 仓库
 
-| 类型 | 链接 | 说明 |
+> `study` 是**正在写**的；其余几个是**已建、正在往里填**的（第一批内容待发布）。
+
+| 类型 | 仓库 | 状态 |
 |---|---|---|
 | 🧩 学习代码库 | [study](https://github.com/sqs6/study) | 35 周 C/C++/网安代码库，进度表公开，持续更新 |
-| 🚩 CTF | [ctf-writeups](https://github.com/sqs6/ctf-writeups) | **建设中** —— 题解与比赛成绩，主攻 Web / Reverse / Pwn |
-| 📝 技术笔记 | [articles](https://github.com/sqs6/articles) | **建设中** —— 指针、内存、二进制安全、Git |
-| 🛠 自研工具 | [tools](https://github.com/sqs6/tools) | **建设中** —— 命令行小工具与脚本 |
+| 🚩 CTF 题解 | [ctf-writeups](https://github.com/sqs6/ctf-writeups) | 建设中 —— 主攻 Web / Reverse / Pwn |
+| 📝 技术笔记 | [articles](https://github.com/sqs6/articles) | 建设中 —— 指针、内存、二进制安全、Git |
+| 🛠 自研工具 | [tools](https://github.com/sqs6/tools) | 建设中 —— 命令行小工具与脚本 |
+| 🗄 比赛参赛 | `sqs6/miniob-sqs2026` | OceanBase 大赛 · MiniOB 内核 fork（仓库待公开，代码待提交） |
 
 ## 正在做
 
 - **OceanBase 数据库大赛（2026 第六届）** —— 迷你数据库内核 MiniOB
-  参赛仓库：[miniob-sqs2026](https://github.com/sqs6/miniob-sqs2026)（fork 自官方 MiniOB，目前只有环境适配改动，代码待提交）
 - 按知识清单 + 晋级门槛推进 C / C++，进度表在 [study](https://github.com/sqs6/study) 公开
 - 每周固定推进 CTF 题解，做完的同步进 [ctf-writeups](https://github.com/sqs6/ctf-writeups)
 
 ## 技术栈
 
-`C` · `C++17` · `Python` · `Git` · `CMake` · `MSVC / Visual Studio 2026` · `Docker` · `Wireshark` · `IDA / Ghidra`
+**会用**：`C` · `Git` · `MSVC / Visual Studio 2026`
+**在学**：`C++`（即将开始，标准 C++17）· `Python` · `CMake` · `Docker`
 
 ## 一点想法
 
