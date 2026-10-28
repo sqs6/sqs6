@@ -20,7 +20,7 @@ C → C++ → 算法 → 网络安全（汇编 / x86 / PE-ELF / 漏洞原理 / �
 | 🚩 CTF 题解 | [ctf-writeups](https://github.com/sqs6/ctf-writeups) | 建设中 —— 主攻 Web / Reverse / Pwn |
 | 📝 技术笔记 | [articles](https://github.com/sqs6/articles) | 建设中 —— 指针、内存、二进制安全、Git |
 | 🛠 自研工具 | [tools](https://github.com/sqs6/tools) | 建设中 —— 命令行小工具与脚本 |
-| 🗄 比赛参赛 | `sqs6/miniob-sqs2026` | OceanBase 大赛 · MiniOB 内核 fork（仓库待公开，代码待提交） |
+| 🗄 比赛参赛 | [miniob-sqs2026](https://github.com/sqs6/miniob-sqs2026) | OceanBase 大赛 · MiniOB 内核 fork（代码待提交） |
 
 ## 正在做
 
