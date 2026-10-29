@@ -1,7 +1,8 @@
-<meta name="msvalidate.01" content="AEA8885348FCCFB132DBFD7B21FFFD7F" />
+<meta name="msvalidate.01" content="AEA8885348FCCFB132DBFD7B21FFFD7F">
 
+# 孙卿单
 
-孙卿单|西安电子科技大学 · 网络空间安全 · 大一（2026.09 – 2030.06 预计）
+西安电子科技大学 · 网络空间安全 · 大一（2026.09 – 2030.06 预计）
 邮箱 3460767440@qq.com ｜ GitHub：<https://github.com/sqs6>
 
 🔄 最近更新：2026-10-28
