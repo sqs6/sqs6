@@ -37,8 +37,6 @@ C → C++ → 算法 → 网络安全（汇编 / x86 / PE-ELF / 漏洞原理 / �
 **会用**：`C` · `Git` · `MSVC / Visual Studio 2026`
 **在学**：`C++`（即将开始，标准 C++17）· `Python` · `CMake` · `Docker`
 
-<meta name="msvalidate.01" content="AEA8885348FCCFB132DBFD7B21FFFD7F">
-
 ## 一点想法
 
 我从小在河南的一个小村庄长大，家里开超市，条件一般但父母很看重教育。
