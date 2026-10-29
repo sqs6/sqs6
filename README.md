@@ -1,3 +1,4 @@
+<meta name="msvalidate.01" content="AEA8885348FCCFB132DBFD7B21FFFD7F" />
 # 孙卿单
 
 孙卿单|西安电子科技大学 · 网络空间安全 · 大一（2026.09 – 2030.06 预计）
