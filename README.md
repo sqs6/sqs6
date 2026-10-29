@@ -1,5 +1,3 @@
-<meta name="msvalidate.01" content="AEA8885348FCCFB132DBFD7B21FFFD7F">
-
 # 孙卿单
 
 西安电子科技大学 · 网络空间安全 · 大一（2026.09 – 2030.06 预计）
@@ -38,6 +36,8 @@ C → C++ → 算法 → 网络安全（汇编 / x86 / PE-ELF / 漏洞原理 / �
 
 **会用**：`C` · `Git` · `MSVC / Visual Studio 2026`
 **在学**：`C++`（即将开始，标准 C++17）· `Python` · `CMake` · `Docker`
+
+<meta name="msvalidate.01" content="AEA8885348FCCFB132DBFD7B21FFFD7F">
 
 ## 一点想法
 
