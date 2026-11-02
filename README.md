@@ -22,7 +22,7 @@ C → C++ → 算法 → 网络安全（汇编 / x86 / PE-ELF / 漏洞原理 / �
 |---|---|---|
 | 🧩 学习代码库 | [study](https://github.com/sqs6/study) | 35 周清单制代码库，进度以打勾表为准；`notes/` 放 C 笔记与 Git 教程，`网安相关/` 放 IoT / ESP32 两篇长文 |
 | 🚩 CTF 题解 | [ctf-writeups](https://github.com/sqs6/ctf-writeups) | 建设中 —— 主攻 Web / Reverse / Pwn |
-| 📝 技术笔记 | [articles](https://github.com/sqs6/articles) | **已发布 2 篇长文** —— 《IoT 与网络安全》《单片机：ESP32 与网安》 |
+| 📝 技术笔记 | [articles](https://github.com/sqs6/articles) | **已发布 3 篇长文** —— 《IoT 与网络安全》《单片机：ESP32 与网安》《C 语言笔记》 |
 | 🛠 自研工具 | [tools](https://github.com/sqs6/tools) | 建设中 —— 命令行小工具与脚本 |
 | 🗄 比赛参赛 | [miniob-sqs2026](https://github.com/sqs6/miniob-sqs2026) | OceanBase 大赛 · MiniOB 内核 fork（代码待提交） |
 
